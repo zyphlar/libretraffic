@@ -7,6 +7,11 @@ Gathering information for a global "one stop shop" free open data live traffic p
 - https://autobahn.api.bund.dev
 - https://trafficview.org/introduction/#faq
 - https://www.tripcheck.com/
+- https://www.mapbox.com/traffic-data
+- https://511on.ca/
+- https://511.org/
+- https://www.arcgis.com/home/item.html?id=ff11eb5b930b4fabba15c47feb130de4#!
+- https://quickmap.dot.ca.gov/
 - some kind of anonymized user-contributed data via existing/participating apps (OsmAnd / OM / other plugin)
 
 ## alternatives
