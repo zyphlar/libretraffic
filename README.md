@@ -6,6 +6,7 @@ Gathering information for a global "one stop shop" free open data live traffic p
 
 - https://autobahn.api.bund.dev
 - https://trafficview.org/introduction/#faq
+- https://www.tripcheck.com/
 - some kind of anonymized user-contributed data via existing/participating apps (OsmAnd / OM / other plugin)
 
 ## alternatives
