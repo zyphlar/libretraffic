@@ -1,6 +1,6 @@
 # libretraffic
 
-Gathering information for a global "one stop shop" free open data live traffic platform, ideally with decent privacy protections. The openaddresses.io or darknet traffic, if you will.
+Gathering information for a global "one stop shop" free open data live traffic platform, ideally with decent privacy protections. The openaddresses.io or p2p darknet traffic, if you will.
 
 ## sources
 
