@@ -5,6 +5,7 @@ Gathering information for a global "one stop shop" free open data live traffic p
 ## sources
 
 - https://github.com/graphhopper/open-traffic-collection
+  - https://www.graphhopper.com/blog/2015/03/18/integrate-your-traffic-data-into-route-planning/
 - https://autobahn.api.bund.dev
 - https://trafficview.org/introduction/#faq
 - https://www.tripcheck.com/
