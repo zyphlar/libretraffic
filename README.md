@@ -4,6 +4,7 @@ Gathering information for a global "one stop shop" free open data live traffic p
 
 ## sources
 
+- https://github.com/organicmaps/organicmaps/issues/1160
 - https://github.com/graphhopper/open-traffic-collection
   - https://www.graphhopper.com/blog/2015/03/18/integrate-your-traffic-data-into-route-planning/
 - https://autobahn.api.bund.dev
